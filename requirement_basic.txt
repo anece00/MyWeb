@@ -1,0 +1,17 @@
+beautifulsoup4
+Flask
+ipykernel
+joblib
+mariadb
+matplotlib
+numpy
+pandas
+Pillow
+PyYAML
+scikit-learn
+seaborn
+SQLAlchemy
+tensorflow
+keras
+tqdm
+
