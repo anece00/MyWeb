@@ -1,0 +1,11 @@
+table {
+    width: 100%;
+    border: 1px solid #333333;
+    border-collapse: collapse;
+}
+td {
+    padding: 10px;
+    border: 1px solid #333333;
+    background-color: cornsilk;
+}
+
